@@ -61,4 +61,4 @@ python3 ./PRTS.py
 
 - open emulator
 - run Script `TestPaddleOCR.py` for OCR environment check
-- if `PaddleOCR` is running normally, script will show current emulator screenshot with ocr result.
+- if `PaddleOCR` is running normally, script will show current emulator screenshot with ocr result
